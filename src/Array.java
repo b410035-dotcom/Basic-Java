@@ -18,6 +18,9 @@ public class Array {
 
 		//Using loop
 		
+		///Test Commit option in Git
+		
+		
 		for(int i=0; i<3;i++) {
 			System.out.println(marks[i]);
 		}
